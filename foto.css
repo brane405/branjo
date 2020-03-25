@@ -1,0 +1,22 @@
+.youtube1{
+    
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    width: 30%;
+    height: 100%;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.youtube-container{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    margin-top: 8vh;
+    width: 100%;
+}
